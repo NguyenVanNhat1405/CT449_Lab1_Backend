@@ -1,0 +1,27 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenVanNhat1405/CT449_Lab1_Backend.git"
+  },
+  "keywords": [
+    "Vannhat",
+    "lab1"
+  ],
+  "author": "Van Nhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenVanNhat1405/CT449_Lab1_Backend/issues"
+  },
+  "homepage": "https://github.com/NguyenVanNhat1405/CT449_Lab1_Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
